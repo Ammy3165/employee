@@ -4,7 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6d9b490c-d422-4737-834f-7f969b8a19b5" name="Changes" comment="" />
+    <list default="true" id="6d9b490c-d422-4737-834f-7f969b8a19b5" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/employee/src/main/java/com/amrendra/employee/Controller/employeeController.java" beforeDir="false" afterPath="$PROJECT_DIR$/employee/src/main/java/com/amrendra/employee/Controller/employeeController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/employee/src/main/java/com/amrendra/employee/Entity/Employee.java" beforeDir="false" afterPath="$PROJECT_DIR$/employee/src/main/java/com/amrendra/employee/Entity/Employee.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/employee/src/main/java/com/amrendra/employee/Repository/employeeRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/employee/src/main/java/com/amrendra/employee/Repository/employeeRepository.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -18,6 +22,19 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <excluded-from-favorite>
+      <branch-storage>
+        <map>
+          <entry type="LOCAL">
+            <value>
+              <list>
+                <branch-info repo="$PROJECT_DIR$" source="master" />
+              </list>
+            </value>
+          </entry>
+        </map>
+      </branch-storage>
+    </excluded-from-favorite>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MarkdownSettingsMigration">
@@ -100,7 +117,15 @@
       <option name="project" value="LOCAL" />
       <updated>1713178968207</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="package changes">
+      <option name="closed" value="true" />
+      <created>1713179142350</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1713179142350</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
