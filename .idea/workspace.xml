@@ -4,13 +4,18 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6d9b490c-d422-4737-834f-7f969b8a19b5" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/employee/src/main/java/com/amrendra/employee/Controller/employeeController.java" afterDir="false" />
-    </list>
+    <list default="true" id="6d9b490c-d422-4737-834f-7f969b8a19b5" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -79,12 +84,29 @@
       <option name="project" value="LOCAL" />
       <updated>1713178589537</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="workspace changes">
+      <option name="closed" value="true" />
+      <created>1713178823227</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1713178823227</updated>
+    </task>
+    <task id="LOCAL-00005" summary="package changes">
+      <option name="closed" value="true" />
+      <created>1713178968207</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1713178968207</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="initial commit" />
     <MESSAGE value="workspace changes" />
-    <option name="LAST_COMMIT_MESSAGE" value="workspace changes" />
+    <MESSAGE value="package changes" />
+    <option name="LAST_COMMIT_MESSAGE" value="package changes" />
   </component>
 </project>
